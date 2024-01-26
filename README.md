@@ -1,11 +1,14 @@
 ### Hi there 👋 I'm Ramanesh
-<hr>
 <div style="width:100%;height:0;padding-bottom:72%;position:relative;">
 <img src="/programmer_gif.gif" width="480" height="344" frameBorder="0"/>
 </div>
 <hr>
-- 🌱 I’m currently learning Front End WebDevelopment
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/ramanesh-p-v/">LinkedIn</a>
+<ul>
+  <li>🌱 I’m currently learning Front End WebDevelopment</li>
+  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/ramanesh-p-v/">LinkedIn</a></li>
+</ul>
+
+
 <!--
 **laciecoder/laciecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
