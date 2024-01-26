@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ramanesh
-<div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/p4NLw3I4U0idi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/programmer-p4NLw3I4U0idi">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/p4NLw3I4U0idi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 🌱 I’m currently learning Front End WebDevelopment
 📫 How to reach me: https://www.linkedin.com/in/ramanesh-p-v/
 <!--
