@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Ramanesh
-<div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/p4NLw3I4U0idi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-🌱 I’m currently learning Front End WebDevelopment
-📫 How to reach me: <a href="https://www.linkedin.com/in/ramanesh-p-v/">LinkedIn</a>
+<div style="width:100%;height:0;padding-bottom:72%;position:relative;">
+<img src="https://giphy.com/embed/p4NLw3I4U0idi" width="480" height="344" frameBorder="0"/>
+</div>
+
+- 🌱 I’m currently learning Front End WebDevelopment
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ramanesh-p-v/">LinkedIn</a>
 <!--
 **laciecoder/laciecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
