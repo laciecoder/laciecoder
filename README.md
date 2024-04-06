@@ -1,10 +1,15 @@
-### Hi there 👋 I'm Ramanesh
-<div style="width:100%;height:0;padding-bottom:72%;position:relative;">
+<p align="center">  
+<strong>
+  Hi there 👋 I'm Ramanesh
+</strong>
+</p>
+<p align="center">
 <img src="/programmer_gif.gif" width="480" height="344" frameBorder="0"/>
-</div>
+</p>
 <hr>
 <ul>
   <li>🌱 I’m currently learning Front End WebDevelopment</li>
+  <li>🔭 I’m currently working on React</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/ramanesh-p-v/">LinkedIn</a></li>
 </ul>
 
