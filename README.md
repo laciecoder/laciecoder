@@ -1,8 +1,10 @@
-<p align="center">  
 <strong>
-  Hi there 👋 I'm Ramanesh
+  <h1>  
+    <p align="center">  
+      Hi there 👋 I'm Ramanesh
+    </p>
+  </h1>
 </strong>
-</p>
 <p align="center">
 <img src="/programmer_gif.gif" width="480" height="344" frameBorder="0"/>
 </p>
