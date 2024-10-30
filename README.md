@@ -13,7 +13,7 @@
   <li>🌱 I’m currently learning Front End WebDevelopment</li>
   <li>🔭 I’m currently working on React</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/ramanesh-p-v/">LinkedIn</a></li>
-  <li>📃 My Resume: <a href="https://utfs.io/f/QyLqvzYvXKINaAPPUrieFNirXSKWEhB792ZO3kc5qfVIb0CP">Click Here</a></li>
+  <li>📃 My Resume: <a href="https://drive.google.com/file/d/1nZLzGudpW36Fm-RTP5opbKivTAluL2kG/view?usp=sharing">Click Here</a></li>
 </ul>
 
 
